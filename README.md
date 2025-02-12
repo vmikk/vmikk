@@ -12,7 +12,7 @@ I work as a Research Fellow at the Institute of Ecology and Earth Sciences at th
 - [symlink2file](https://github.com/vmikk/symlink2file) [Go] - A tool to replace symlinked files with their original files 
 - [tshbot](https://github.com/vmikk/tshbot) [Go] - Program for executing shell commands via Telegram 
 - [goclust](https://github.com/vmikk/goclust) [Go] - Clustering tool for sparse matrices produced by USEARCH 
-- [ucs](https://github.com/vmikk/ucs) [Go] - UC file summarizer (from sequences clustering with VSEARCH/USEARCH/SWARM) 
+- [ucs](https://github.com/vmikk/ucs) [Go] - UC file proccessing tool (USEARCH/VSEARCH/SWARM cluster format) 
 - [BatchBlaster](https://github.com/vmikk/BatchBlaster) [Nextflow] - A Nextflow-based pipeline for taxonomic classification (currently with BLAST) 
 - [metagMisc](https://github.com/vmikk/metagMisc) [R] - Miscellaneous functions for metagenomic analysis
 - [SHMatcher](https://github.com/vmikk/SHMatcher) [Nextflow, Python] - Species hypothesis (SH) matching analysis tool 
